@@ -1,0 +1,12 @@
+var=int(input("enter number in your chet"))
+
+if (var>=0 and var<=10):
+   print (" you are in a arjun group") 
+elif (var>10 and var<=20):
+    print ("you are in ram group")
+elif ("var>20 and var=30"):
+    print ("then you are in extra")
+else:
+    print("go to heal")
+
+    

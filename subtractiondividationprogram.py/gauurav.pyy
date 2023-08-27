@@ -1,0 +1,11 @@
+var1=int(input(enter your first no.))
+var2=int(input(enter your second no))
+var3=var1-var2
+var3=var1/var2
+print(substractionn is:+str(var3))
+print(dividation is:+str(var3))
+var1=float(input("give yor number"))
+var2=int(input("give your second number"))
+var3=var1+var2
+print("multiplicatin is:"+str(var3))
+print("addition id:"+str(var3))
